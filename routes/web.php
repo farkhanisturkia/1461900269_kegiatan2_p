@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('0269wellcome');
 });
+
+Route::view('0269pil1','0269pil1');
+Route::view('0269pil2','0269pil2');
+Route::view('0269pil3','0269pil3');
+Route::view('0269pil4','0269pil4');

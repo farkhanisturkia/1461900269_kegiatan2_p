@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
-@section('title','home')
+@section('title','select join dengan like')
 
 @section('content')
 
     <div class="container">
-        <h4>HOME</h4>
+        <h4>select join dengan like</h4>
     </div>
     
 @endsection

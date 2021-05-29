@@ -8,16 +8,19 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="/">tampilkan anggota</a>
+          <a class="nav-link" href="/">home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/artikel0269">cari anggota</a>
+          <a class="nav-link" href="/0269pil1">tampilkan anggota</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/contact0269">tampikan semua data</a>
+          <a class="nav-link" href="/0269pil2">cari anggota</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/contact0269">cari dari semua data</a>
+          <a class="nav-link" href="/0269pil3">tampikan semua data</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/0269pil4">cari dari semua data</a>
         </li>
     </div>
   </div>
