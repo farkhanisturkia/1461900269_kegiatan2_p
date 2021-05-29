@@ -17,7 +17,6 @@ class CreateAnggota extends Migration
             $table->bigIncrements('anggota_id',10);
             $table->string('anggota_nama', 50);
             $table->string('anggota_alamat');
-            $table->string('anggota_jk');
             $table->string('anggota_telp',20);
             $table->timestamps();
         });
